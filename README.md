@@ -1,4 +1,5 @@
 # Binocular-stereo-vision-algorithm-based-on-deep-learning
+您好，我叫吴锦涛，是一位善于沟通和团队合作的人，从本科开始一直从事于人工智能算法的研究，前端后端都有所涉略，我是哈尔滨工业大学的一名研究生，欢迎来到我的仓库，有兴趣可以一起交流，一起用技术改变世界！
 Because the traditional matching cost calculation algorithm is difficult to meet the accuracy requirements of complex tasks. In recent years, deep learning methods have made successful breakthroughs in image processing. Because of their superior performance in self-learning and feature information extraction, we aim to use deep learning algorithms to calculate high-precision initial matches cost in this project .
 
 训练过程如下：
