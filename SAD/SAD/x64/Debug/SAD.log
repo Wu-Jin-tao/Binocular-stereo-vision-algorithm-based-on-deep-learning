@@ -1,0 +1,7 @@
+﻿  源.cpp
+e:\baidunetdiskdownload\传统算法的程序\sad\sad\源.cpp(47): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  SAD.vcxproj -> E:\BaiduNetdiskDownload\传统算法的程序\SAD\x64\Debug\SAD.exe
